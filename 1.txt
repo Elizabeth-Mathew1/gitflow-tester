@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 trying to mock a merge conflict
-=======
-trying to mock a merge conflictsss
->>>>>>> test1
